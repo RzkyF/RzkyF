@@ -16,7 +16,7 @@ Hi, Everyone! My name is Rizky and Im a Senior in High School interested in Comp
 - ⚡ PHP, JavaScript, Java & Python
 - ⚡ Codeigniter 4
 - ⚡ Figma
-- ⚡ Python
+- ⚡ Machine Learning
 
 ### - Framework | Language | Tools :
 
