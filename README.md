@@ -7,8 +7,8 @@
 <br/>
 
 ### ~ About Me 💬:
-<br>
-   Nama gw Rizky, im 18 y'o.
+
+Hi, Everyone! My name is Rizky. I am 18 y.o
 
 ### - Learning :
 
