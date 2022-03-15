@@ -69,5 +69,5 @@
 <br>
 <p align="center">Selalu jawab pesan kok..<br>
 tapi slow respon :p</p>
-<p align="center"><a href="https://instagram.com/__kzy616" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://discord.me/396815353394757632" target="_blank"><img src="https://dcbadge.vercel.app/api/shield/396815353394757632"/></a></p>
+<p align="center"><a href="https://instagram.com/__kzy616" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a></p>
 </div>
