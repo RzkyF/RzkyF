@@ -13,7 +13,7 @@
 ### - Learning :
 
 - ⚡ Data Structures & Algorithms
-- ⚡ PHP & JavaScript
+- ⚡ PHP, JavaScript, Java & Python
 - ⚡ Codeigniter 4
 - ⚡ Figma
 - ⚡ Python
