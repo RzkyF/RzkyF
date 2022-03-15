@@ -8,7 +8,7 @@
 
 ### ~ About Me 💬:
 
-Hi, Everyone! My name is Rizky. I am 17 y.o
+Hi, Everyone! My name is Rizky and Im a Senior in High School interested in Computer science..
 
 ### - Learning :
 
