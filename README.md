@@ -63,11 +63,14 @@ Hi, Everyone! My name is Rizky. I am 17 y.o
 
 ### - Contact Me 📫 :
 <br>
+
 <div align="center">
 <img src="https://c.tenor.com/u2HYQME-51UAAAAC/anime-emotionless.gif" width="373.5px" height="208.5px">
 </div>
 <br>
 <p align="center">Selalu jawab pesan kok..<br>
 tapi slow respon :p</p>
-<p align="center"><a href="https://instagram.com/__kzy616" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a></p>
+<p align="center"><a href="https://instagram.com/__kzy616" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+    <a href="https://wa.me/+6289510586340" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+    </p>
 </div>
