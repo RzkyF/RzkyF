@@ -5,9 +5,13 @@
 <img src="https://c.tenor.com/wqX-_SZGgnkAAAAC/windy-texting.gif">
 </div>
 <br/>
-~ About Me 💬:
+
+### ~ About Me 💬:
+<br>
+   Nama gw Rizky, im 18 y'o.
 
 ### - Learning :
+
 - ⚡ Data Structures & Algorithms
 - ⚡ PHP & JavaScript
 - ⚡ Codeigniter 4
@@ -58,9 +62,12 @@
 
 
 ### - Contact Me 📫 :
-<img src="https://c.tenor.com/O1DATMJO5h0AAAAC/yuru-yuri-chinatsu-yoshikawa.gif" align="right" width="373.5px" height="208.5px">
+<br>
+<div align="center">
+<img src="https://c.tenor.com/u2HYQME-51UAAAAC/anime-emotionless.gif" width="373.5px" height="208.5px">
+</div>
 <br>
 <p align="center">Selalu jawab pesan kok..<br>
 tapi slow respon :p</p>
-<p align="center"><a href="https://instagram.com/__kzy616" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://discord.me/cozythighs" target="_blank"><img src="https://dcbadge.vercel.app/api/shield/406125028065804289"/></a></p>
+<p align="center"><a href="https://instagram.com/__kzy616" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://discord.me/396815353394757632" target="_blank"><img src="https://dcbadge.vercel.app/api/shield/396815353394757632"/></a></p>
 </div>
