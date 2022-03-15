@@ -8,7 +8,7 @@
 
 ### ~ About Me 💬:
 
-Hi, Everyone! My name is Rizky. I am 18 y.o
+Hi, Everyone! My name is Rizky. I am 17 y.o
 
 ### - Learning :
 
