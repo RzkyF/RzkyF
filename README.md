@@ -65,7 +65,7 @@ Hi, Everyone! My name is Rizky and Im a Senior in High School interested in Comp
 <br>
 
 <div align="center">
-<img src="https://c.tenor.com/u2HYQME-51UAAAAC/anime-emotionless.gif" width="373.5px" height="208.5px">
+<img src="https://giphy.com/embed/vMSXa7KFGx49aeeXhe">
 </div>
 <br>
 <p align="center">Selalu jawab pesan kok..<br>
