@@ -65,7 +65,7 @@ Hi, Everyone! My name is Rizky and Im a Senior in High School interested in Comp
 <br>
 
 <div align="center">
-<img src="https://giphy.com/embed/vMSXa7KFGx49aeeXhe">
+<iframe src="https://giphy.com/embed/vMSXa7KFGx49aeeXhe">
 </div>
 <br>
 <p align="center">Selalu jawab pesan kok..<br>
